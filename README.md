@@ -1,4 +1,4 @@
-qudea-api
+Qudea API
 =========
 
-Qudea için API dökümantasyonu
+Rest mimarisinde olan Qudea API doğrulama için **OAuth 2**, serilizasyon için **JSON** kullanır.
